@@ -92,10 +92,13 @@ homekit:
 
 ---
 
-## Disclaimer
+## Disclaimer & Trademark Notice
 
-This project is an independent community project developed strictly for local device interoperability and compatibility purposes. It is not affiliated with, sponsored by, or endorsed by Clinton Electronics or Astel Co., Ltd. All product names, logos, and brands are property of their respective owners.
+* **Independent Community Project**: This project is an independent open-source integration developed strictly for local interoperability and smart home compatibility purposes. It is not an official product of, nor is it affiliated with, associated with, sponsored by, or endorsed by Clinton Electronics, Astel Co., Ltd., or any of their subsidiaries or affiliates.
+* **Trademarks**: All product names, logos, trademarks, registered trademarks, and brand names (including *Clinton Electronics*, *Shadow*, *CEC Connect*, and *Astel*) mentioned in this repository are the property of their respective owners. Their use in this project is for identification and compatibility reference only, and does not imply any affiliation, sponsorship, or endorsement.
+* **Warranty Disclaimer**: This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability arising from, out of, or in connection with the software or the use or other dealings in the software.
 
 ## License
 
 Licensed under the [Apache License, Version 2.0](LICENSE).
+
