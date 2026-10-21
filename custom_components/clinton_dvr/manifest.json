@@ -1,0 +1,11 @@
+{
+  "domain": "clinton_dvr",
+  "name": "Clinton Electronics DVR",
+  "version": "1.0.0",
+  "documentation": "https://github.com/Mercury2699/ha-clinton-dvr",
+  "issue_tracker": "https://github.com/Mercury2699/ha-clinton-dvr/issues",
+  "dependencies": ["camera"],
+  "codeowners": ["@Mercury2699"],
+  "integration_type": "hub",
+  "iot_class": "local_push"
+}
